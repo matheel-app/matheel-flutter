@@ -1,0 +1,3 @@
+tags:
+  screenshot:
+    skip: "Regenerates the pub.dev screenshots with fonts from the Matheel repo: flutter test --run-skipped -t screenshot --update-goldens"

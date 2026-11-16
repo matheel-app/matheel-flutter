@@ -1,0 +1,10 @@
+name: matheel_zatca_example
+description: Shows a ZATCA invoice card with matheel_zatca.
+publish_to: none
+environment:
+  sdk: ^3.14.0
+dependencies:
+  flutter:
+    sdk: flutter
+  matheel_zatca:
+    path: ../
